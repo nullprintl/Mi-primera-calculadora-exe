@@ -22,14 +22,8 @@ Para compilar y ejecutar este proyecto necesitas un compilador de C++ (como **g+
     g++ main.cpp -o calculadora
 
 3. **Ejecuta el programa:**
-   
-    En Windows:
     ```bash
     calculadora.exe
-
-    En Linux/macOS:
-    ```bash
-    ./calculadora
 
 📝 Uso
 
