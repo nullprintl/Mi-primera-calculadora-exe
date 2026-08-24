@@ -14,8 +14,7 @@ Para compilar y ejecutar este proyecto necesitas un compilador de C++ (como **g+
 
 1. **Clona el repositorio:**
    ```bash
-   ```
-   git clone [Repositorio en GitHub](https://github.com/nullprintl/Mi-primera-calculadora-exe)
+   git clone https://github.com/nullprintl/Mi-primera-calculadora-exe
    cd Mi-primera-calculadora-exe
 
 2. **Compila el código fuente:**
