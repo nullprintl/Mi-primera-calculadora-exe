@@ -10,11 +10,12 @@ Una calculadora interactiva de consola desarrollada en C++ que permite realizar 
 
 ## 🚀 Compilación y Ejecución
 
-Para compilar y ejecutar este proyecto necesitas un compilador de C++ (como **g++** / MinGW) instalado en tu sistema.
+Para compilar y ejecutar este proyecto necesitas un compilador de C++ (como **g++** / **MinGW**) instalado en tu sistema.
 
 1. **Clona el repositorio:**
    ```bash
-   git clone [https://github.com/nullprintl/Mi-primera-calculadora-exe.git](https://github.com/nullprintl/Mi-primera-calculadora-exe.git)
+   ```
+   git clone [Repositorio en GitHub](https://github.com/nullprintl/Mi-primera-calculadora-exe)
    cd Mi-primera-calculadora-exe
 
 2. **Compila el código fuente:**
